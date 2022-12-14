@@ -1,7 +1,7 @@
 ## Howdy 🤠
 I'm a .Net developer (currently) based in Cracow, PL. 
 
-- 🔭 I'm consultant at Columbus Global working with E-Commerce solutions.
+- 🔭 I'm consultant at Columbus working with E-Commerce solutions.
 - ⚒️ .NET / C#, React/TypeScript/Javascript, Azure
 - 💬 You can get in touch with me by email at bialyrobert@gmail.com and [LinkedIn](https://www.linkedin.com/in/bialy-robert/).
 
